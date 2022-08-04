@@ -2,7 +2,7 @@
 /**
  * @type {Cypress.PluginConfig}
  */
-const { lighthouse, prepareAudit } = require('cypress-audit');
+
 const { lighthouse, prepareAudit } = require('@cypress-audit/lighthouse')
 
 module.exports = (on, config) => {
