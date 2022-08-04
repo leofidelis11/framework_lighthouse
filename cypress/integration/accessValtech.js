@@ -21,7 +21,6 @@ describe('Perform lighthouse analysis ', () => {                                
         }
         }
       )
-
       cy.url().should('include', 'https://www.valtech.com/')
     })
   })
