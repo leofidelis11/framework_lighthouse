@@ -1,0 +1,8 @@
+{
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "chromeWebSecurity": false,
+    "env": {
+    "url": "https://www.google.com/"
+}
+}
