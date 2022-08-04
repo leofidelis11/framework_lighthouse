@@ -42,6 +42,7 @@
     "cypress": "^9.5.1",
     "cypress-localstorage-commands": "^1.4.1",
     "faker": "^5.5.3",
-    "junit-report-merger": "^3.0.5"
+    "junit-report-merger": "^3.0.5",
+    "cypress-audit": "^1.1.0"
   }
 }
