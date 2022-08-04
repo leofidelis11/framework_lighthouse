@@ -1,5 +1,5 @@
 {
-  "name": "framework-cypress-lighthouseTool",
+  "name": "framework-cypress-lighthouse-tool",
   "version": "1.0.0",
   "description": "Automation Framework develop in Cypress-JS for web test",
   "main": "index.js",
